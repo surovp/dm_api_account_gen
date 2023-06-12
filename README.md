@@ -1,2 +1,2 @@
 # dm_api_account_gen
-Generated Account and Login client with Models
+Сгенерированная библиотека с аккаунт и логин клиентами и моделями
